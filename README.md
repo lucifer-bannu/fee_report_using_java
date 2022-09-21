@@ -1,0 +1,2 @@
+# fee_report_using_java
+The main aim of this project is to develop a java program for a school which was  established recently. The main purpose of this project is easy to maintain the records for  a long time than normal handwritten records. This should manage student billing forms  and fee dues.  Problem statement was to design a module:  • Which is user friendly. • Which will restrict the user from accessing other user’s data. • Which will help user in viewing his data and privileges. • Which will help the administrator to handle all the changes.
